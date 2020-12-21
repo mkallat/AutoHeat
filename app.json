@@ -1,0 +1,12 @@
+{
+  "name": "AutoHeat",
+  "displayName": "AutoHeat",
+  "expo": {
+    "name": "AutoHeat",
+    "slug": "AutoHeat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
