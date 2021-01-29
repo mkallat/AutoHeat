@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "bridgeuser": "",
+        "owmkey": "",
+        "server": "",
+        "bridge": "",
+        "location": {
+            "latitude": "",
+            "longitude": ""
+        }
+    }
+}
