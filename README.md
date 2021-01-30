@@ -1,6 +1,5 @@
 # AutoHeat
 Car Heating Scheduler with Python Flask
-Personal hobby project with
 
 ## Requirements
 - Python 3.8
