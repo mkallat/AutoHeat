@@ -11,7 +11,7 @@ Car Heating Scheduler with Python Flask
 
 ## Configuration
 
-`src/config.json` need to be set before the use:
+`src/config.json` need to be set before use:
 - bridgeuser: User key that you get from the `https://<bridge ip address>/debug/clip.html`
 - owmkey: API key from OpenWeatherMap
 - server: Address of the server machine that hosts the Flask application
@@ -19,7 +19,6 @@ Car Heating Scheduler with Python Flask
 - location: Latitude and longitude of the location that you want to use for the forecast
 
 ## Known issues
-
 - DateTimePicker works only on Android
 
 ## Todos
