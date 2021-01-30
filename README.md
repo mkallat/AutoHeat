@@ -23,5 +23,5 @@ Car Heating Scheduler with Python Flask
 
 ## Todos
 - Notification system in case the server crashes
-- Decent handling for status codes that are get from the requests
+- Decent handling for status codes from the requests
 - Tests
