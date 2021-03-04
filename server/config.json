@@ -1,6 +1,7 @@
 {
     "settings": {
         "bridgeuser": "",
+        "light": "",
         "owmkey": "",
         "server": "",
         "bridge": "",

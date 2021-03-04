@@ -5,10 +5,11 @@ import json
 
 # Get user settings from the config.json file
 with open("config.json") as f:
-        settings = json.load(f)
+    settings = json.load(f)
 
 user = settings["settings"]["bridgeuser"]
-light = "1"
+light = ["settings"]["light"]
+
 
 # Sends PUT-request to turn on/off the light
 # Boolean parameter turn: true -> on, false -> off
